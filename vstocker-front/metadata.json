@@ -1,0 +1,6 @@
+{
+  "name": "美股投資理財應用",
+  "description": "提供個股本日新聞、財報數據視覺化、個人持倉板塊與即時損益分析及資產配置圓餅圖的美股理財助手。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
